@@ -16,6 +16,7 @@ new_list2 = [var2, var1, var4, var3, var6, var5]
 #print(var1, var2, end = ' ')
 #print(var3, var4, end =' ')
 #print(var5, var6)
+
 print(new_list2)
 
 

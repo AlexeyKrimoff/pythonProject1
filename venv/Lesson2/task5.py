@@ -1,4 +1,3 @@
-
 list1 = [9, 7, 4, 3, 1, 2]
 
 add = int(input('Enter digit 1 - 10  ->  '))
