@@ -1,4 +1,3 @@
-
 list1 = input("Enter five words thru the _ ")
 
 my_list = list1.split()
